@@ -15,8 +15,22 @@
 //  " " => True
 
 
-let someNumber = 33
-let stringNum = String(someNumber)
-console.log(someNumber);
-console.log(typeof stringNum)
+// let someNumber = 33
+// let stringNum = String(someNumber)
+// console.log(someNumber);
+// console.log(typeof stringNum)
+
+
+// ************* Operations *****************************
+
+// let value = 3
+// let negValue = -value
+// console.log(value);
+// console.log(negValue);
+
+// let str1 = "Hello" 
+// let str2 = " Sandesh"
+// let str3 = str1 + str2
+// console.log(str3);
+
 
