@@ -36,6 +36,20 @@ const myFunc = function() {
     console.log('Hello')
 }
 
-
 console.log(typeof heros) // number;
+
+// =====================================================
+
+// Memory Types 
+// 1. Stack Memory
+// 2. Heap Memory
+
+
+
+
+
+
+
+
+
 
