@@ -20,7 +20,7 @@ console.log(myArr.includes(7));
 console.log(myArr.indexOf(3)); // 2
 
 const newArr = myArr.join() // Converts the array to a string
-const newArr = myArr.join(' & '); // Converts the array to a string with ' & ' as separator
+// const newArr = myArr.join(' & '); // Converts the array to a string with ' & ' as separator
 
 
 // Slice and splice
@@ -42,3 +42,5 @@ myArr.splice(2, 0, 4, 5); // Adds 4 and 5 at index 2 without removing any elemen
 
 console.log(myArr); // [1, 2, 3, 4, 5, 6]
 console.log(newArr);
+
+
