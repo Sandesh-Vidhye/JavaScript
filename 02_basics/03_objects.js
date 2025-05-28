@@ -10,7 +10,7 @@
 // Example of using a symbol as a property key
 // by using bracket notation in obejects it's denote the symbol as a key
 
-//objects literal
+//******************** objects literal *********************************
 const person = {
     name: "Sandesh",
     age: 21,
@@ -25,6 +25,7 @@ const person = {
     //     console.log(`Hello, my name is ${this.name}`);
     // }
 };
+
 
 // console.log(person);
 // Accessing object properties
