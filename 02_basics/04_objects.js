@@ -53,5 +53,25 @@ console.log(Object.keys(tinderUser));
 console.log(Object.values(tinderUser));
 console.log(Object.entries(tinderUser));
 
+//Object Distructured 
+const course ={
+    couseName : "JS-HIndi",
+    price : "0001",
+    courseStudent : "Sandesh"
+}
 
+const {courseStudent:student} = course
+console.log(student);
+
+// *************** API = Application Program Interfece ***********************
+// {
+//     "name" : "Sandesh",
+//     "courseName" : "JsHindi",
+//     "price" : "free"
+// }
+
+[
+    {},
+    {}
+]
 
