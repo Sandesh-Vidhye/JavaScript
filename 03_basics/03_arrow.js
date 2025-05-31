@@ -8,18 +8,18 @@ const user ={
         
     }
 }
-// user.welcomeMsg()
-// user.username ="Sam"
-// user.welcomeMsg()
-// console.log(this);
+user.welcomeMsg()
+user.username ="Sam"
+user.welcomeMsg()
+console.log(this);
 
+function chai() {
+    // We do not used this keyword inside the function
+    let userName = "Sandesh"
+    console.log(this.userName)
+}
+chai()
 
-// function chai() {
-//     // We do not used this keyword inside the function
-//     let userName = "Sandesh"
-//     console.log(this.userName)
-// }
-// chai()
 
 
 
